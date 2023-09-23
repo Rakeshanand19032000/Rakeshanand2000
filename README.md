@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakeshanand</h1>
-<div style="text-align: center;">
-  <div style="width: 100px; height: 100px; background-color: #3498db; animation: spin 2s linear infinite;">
-   React Developer
-  </div>
-</div>
+<h1 align="center">React Developer</h1>
 
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-</style>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------                                    
                                                 Skills:  
