@@ -1,47 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rakeshanand</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated Heading</title>
-    <style>
-        /* CSS for centering and animating the heading */
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+<div style="text-align: center;">
+  <div style="width: 100px; height: 100px; background-color: #3498db; animation: spin 2s linear infinite;">
+   React Developer
+  </div>
+</div>
 
-        h3 {
-            text-align: center;
-            opacity: 0; /* Initially hide the element */
-            transform: translateY(-20px); /* Move the element up by 20px */
-            transition: opacity 0.5s ease, transform 0.5s ease; /* Add transition effects */
-        }
-
-        /* Apply animation when the heading has the "show" class */
-        .show {
-            opacity: 1; /* Make the element visible */
-            transform: translateY(0); /* Reset the element's position */
-        }
-    </style>
-</head>
-<body>
-    <!-- The heading to be animated -->
-    <h3 class="centered-heading">React Developer</h3>
-
-    <!-- JavaScript to add the "show" class after a delay -->
-    <script>
-        // Add the "show" class to the heading after a delay (e.g., 2 seconds)
-        setTimeout(function() {
-            document.querySelector('.centered-heading').classList.add('show');
-        }, 2000); // Delay in milliseconds
-    </script>
-</body>
-</html>
+<style>
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+</style>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------                                    
                                                 Skills:  
