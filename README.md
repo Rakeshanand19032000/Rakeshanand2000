@@ -5,6 +5,53 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshanand2000" alt="rakeshanand2000" /></a> </p>
 
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.I have 3+ year o f  teaching experiance.I train so many students like Data Structure, CPP, C, Java. I also have 1+ year of industrial experiance in Java, Spring Boot & Microservices
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Skills:  
+
+Java , Spring Boot, Microservices  
+Spring Security ( JWT, KeyCloak )  
+Spring Data JPA, Actuators  
+Profiles in Spring Boot  
+Database Migration With Flyway
+
+Restfull Services:  
+XML & JAX-B api  
+JSON & JACKSON api  
+Swagger Documentation  
+PostMan  
+REST Client(RestTemplate , WebClient)  
+Exception Handling  
+
+Unit Testing:  
+JUnit 5 Framework  
+Mockito Framework  
+Hamcrest Framework  
+JsonPath Library  
+AssertJ Library   
+
+Database:  
+H2 In- memory Database  
+MySQL Database  
+Postgress Database  
+
+Java 8 features:  
+Stream Api, Lambda Function, Functional Interface, Default Method, Static Method etc...  
+
+Tools:  
+Workbench, PG Admin  
+GitHub, Bitbucket, git 
+IntelliJ Idea, Spring Tool Suit, Eclipse  
+Maven Build Tool  
+Postman, Swagger Documentation  
+
+C, CPP, Data Structure & Algorithms  
+
+I have confidence to handle backend with Spring Framework.  
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on **Banking use case**
 
 - 🌱 I’m currently learning **React js**
