@@ -1,36 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rakeshanand</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">React Developer</h3>
+---------------------------------------------------------------------------------------------------------------------------------------------                                    
+                                                Skills:  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshanand2000&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshanand2000" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshanand2000" alt="rakeshanand2000" /></a> </p>
-
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.I have 3+ year o f  teaching experiance.I train so many students like Data Structure, CPP, C, Java. I also have 1+ year of industrial experiance in Java, Spring Boot & Microservices
-
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-Skills:  
-
-Java , Spring Boot, Microservices  
+Java , Spring Boot,React
 Spring Security ( JWT, KeyCloak )  
-Spring Data JPA, Actuators  
+Spring Data JPA  
 Profiles in Spring Boot  
-Database Migration With Flyway
+
+Testing :
+Manual Testing
 
 Restfull Services:  
-XML & JAX-B api  
-JSON & JACKSON api  
-Swagger Documentation  
+JSON api  
 PostMan  
-REST Client(RestTemplate , WebClient)  
+REST Client(RestTemplate )  
 Exception Handling  
-
-Unit Testing:  
-JUnit 5 Framework  
-Mockito Framework  
-Hamcrest Framework  
-JsonPath Library  
-AssertJ Library   
 
 Database:  
 H2 In- memory Database  
@@ -42,25 +27,34 @@ Stream Api, Lambda Function, Functional Interface, Default Method, Static Method
 
 Tools:  
 Workbench, PG Admin  
-GitHub, Bitbucket, git 
+GitHub, git  
 IntelliJ Idea, Spring Tool Suit, Eclipse  
 Maven Build Tool  
-Postman, Swagger Documentation  
-
-C, CPP, Data Structure & Algorithms  
+Postman Documentation  
 
 I have confidence to handle backend with Spring Framework.  
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **Banking use case**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshanand2000&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshanand2000" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshanand2000" alt="rakeshanand2000" /></a> </p>
 
 - 🌱 I’m currently learning **React js**
 
+- 👯 I’m looking to collaborate on **Microservices**
+
+- 🤝 I’m looking for help with **Microservices**
+
+- 💬 Ask me about **Manual Testing,Java,Spring Boot,MySql,React Js,**
+
 - 📫 How to reach me **rockymadasn19@gmail.com**
+
+- 📄 Know about my experiences [I have 2 yrs of industrial experiences](I have 2 yrs of industrial experiences)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rakeshanand-c-ab8a48269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rakeshanand-c-ab8a48269" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rakeshsanjith19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakeshsanjith19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
